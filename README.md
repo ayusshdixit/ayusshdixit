@@ -1,4 +1,10 @@
+  ![](https://komarev.com/ghpvc/?username=Kaif89&style=for-the-badge)
+<div align="center">
+  
+<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" align="center" height="350" style="width: 100%" />
+  
 
+</div>  
 <h1 align="center">Hi 👋, I'm Samrat Dixit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
